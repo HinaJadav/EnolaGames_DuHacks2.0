@@ -1,4 +1,4 @@
-// Inserting the Images
+//// Inserting the Images
 function insertImage() {
 
     document.querySelectorAll('.box').forEach(image => {
